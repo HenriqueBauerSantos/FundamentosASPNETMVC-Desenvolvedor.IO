@@ -1,0 +1,1 @@
+Atividades do curso Iniciando com ASP.NET MVC da plataforma Desenvolvedor.io. Exercicios para compreender a criar de forma limpa e padronizada de aplicacoes MVC, conexao com o banco de dados e suas funcionalidades.
