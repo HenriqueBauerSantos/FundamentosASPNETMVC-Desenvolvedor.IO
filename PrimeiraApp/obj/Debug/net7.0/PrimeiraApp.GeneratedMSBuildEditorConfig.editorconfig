@@ -16,6 +16,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Área de trabalho\Estudos\ProjetosTI\Desenvolvedor io\FundamentosASPNETCoreMVC\PrimeiraApp
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/FundamentosASPNETCoreMVC/PrimeiraApp/Views/Alunos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/FundamentosASPNETCoreMVC/PrimeiraApp/Views/Alunos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/FundamentosASPNETCoreMVC/PrimeiraApp/Views/Alunos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/FundamentosASPNETCoreMVC/PrimeiraApp/Views/Alunos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Área de trabalho/Estudos/ProjetosTI/Desenvolvedor io/FundamentosASPNETCoreMVC/PrimeiraApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
